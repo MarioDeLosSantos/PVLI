@@ -2,7 +2,7 @@
 Alberto Córdoba Ortiz: albcor01@ucm.es
 Mario De Los Santos: mdlos02@ucm.es
 
-##Mecánicas:
+## Mecánicas:
 Movimento en 16 direcciones controlado por las 4 flechas de teclado.
 Frenar/Acelerar de manera paulatina
 Se puede morir por:
