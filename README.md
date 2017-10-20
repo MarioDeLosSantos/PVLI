@@ -20,7 +20,7 @@ Para completar el nivel se tendrá que terminar la carrera en la primera posici�
 El jugador tendrá 3 vidas y perderá 1 cada vez que no acabe primero en una carrera
 
 ## Canvas
-Durante el juego se muestra únicamente la clasificación de los jugadores y se modifica cuando se realiza un adelantamiento.
+Durante el juego se muestra únicamente la clasificación de los jugadores y se modifica cuando se realiza un adelantamiento y el número de vueltas las cuales van en decremento.
 
 ## Modos De Juego
 El juego original se compone de 3 Modos de juego:
