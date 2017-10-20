@@ -13,7 +13,7 @@ Puedes colisionar con objetos del mapa que te harán perder velocidad
 Los enemigos avanzan por la carretera de mantera que intentan alcanzar la meta evitando colisionar con los elementos del mapa
 Se pueden realizar saltos en algunos objetos categorizados como rampas.
 
-![alt text](https://static.giantbomb.com/uploads/original/2/23093/2912295-micromachines2001.png "EJEMPLO DE JUEGO")
+![alt text]( http://www.abandonia.com/files/games/77/Micro%20Machines_4.png "EJEMPLO DE JUEGO")
 
 ## Dinámicas:
 Para completar el nivel se tendrá que terminar la carrera en la primera posición.
