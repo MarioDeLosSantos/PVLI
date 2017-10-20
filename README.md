@@ -27,6 +27,7 @@ El juego original se compone de 3 Modos de juego:
 -2 Jugadors
 -Modo Challenge
 -Modo Head to Head
+Vamos a centrarnos en el modo Challenge.
 
 ## Vehículos
 El juego se compone de varios vehículos, está por decidir cuales formarán parte de este proyecto
